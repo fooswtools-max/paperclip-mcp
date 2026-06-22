@@ -1,0 +1,10 @@
+{
+  "name": "paperclip-calculators",
+  "description": "Free finance, loan, retirement, tax & small-claims calculators. Deterministic, correct, every result carries a source_url.",
+  "version": "1.0.0",
+  "homepage": "https://paperclip-calc.zivtools.workers.dev",
+  "transport": { "type": "streamable-http", "url": "https://paperclip-calc.zivtools.workers.dev/mcp" },
+  "tools": ["compound_interest", "savings_growth", "loan_payment", "retirement_number", "small_claims_limit"],
+  "license": "CC-BY-4.0",
+  "categories": ["finance", "calculators", "productivity"]
+}
